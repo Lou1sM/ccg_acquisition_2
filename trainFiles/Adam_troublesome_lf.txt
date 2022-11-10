@@ -1,0 +1,1332 @@
+Sent : what kind of syrup ?
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : a little bit too big .
+Sent : after Diandra 's father stops working ?
+Sent : what number shall I write ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what kind of syrup ?
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : a little bit too big .
+Sent : after Diandra 's father stops working ?
+Sent : what number shall I write ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : do you know what kind this is ?
+Sent : know what kind that is ?
+Sent : what color is in the rug ?
+Sent : until he met how many men ?
+Sent : what kind of car do you have ?
+Sent : the baby doggie is a puppy .
+Sent : how many tummies do you have ?
+Sent : which one is Mr Walter ?
+Sent : in whose mouth does it go ?
+Sent : bite whose mouth ?
+Sent : whose tummy hurts ?
+Sent : how many eyes ?
+Sent : whose shoes did you hit ?
+Sent : which one is yellow ?
+Sent : which one looks like that one ?
+Sent : whose bike ?
+Sent : what toy do you kick ?
+Sent : a book isn 't a ball .
+Sent : what kind of bread ?
+Sent : what kind of fish ?
+Sent : what kind of syrup ?
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : what kind of syrup ?
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : the song was daisy daisy .
+Sent : Adam which one is like this ?
+Sent : what kind of paper ?
+Sent : what kind of water ?
+Sent : some people like to drive like that .
+Sent : what number shall I write ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : do you know what kind this is ?
+Sent : know what kind that is ?
+Sent : your busy little horse ?
+Sent : what kind of syrup ?
+Sent : I don 't have no many babies .
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : a fire engine ?
+Sent : Jack and the Beanstalk .
+Sent : an egg ?
+Sent : the fire father ?
+Sent : a little bit too big .
+Sent : the shape of the scissors ?
+Sent : the men ?
+Sent : after Diandra 's father stops working ?
+Sent : what number shall I write ?
+Sent : yes a baby carriage .
+Sent : some pie ?
+Sent : some sugar ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : do you know what kind this is ?
+Sent : know what kind that is ?
+Sent : Daddy 's racket ?
+Sent : yes Daddy 's racket .
+Sent : Robie 's nail ?
+Sent : what color is in the rug ?
+Sent : until he met how many men ?
+Sent : what kind of car do you have ?
+Sent : Adam 's doggie ?
+Sent : the baby doggie is a puppy .
+Sent : how many tummies do you have ?
+Sent : which one is Mr Walter ?
+Sent : Adam 's pencil ?
+Sent : in whose mouth does it go ?
+Sent : bite whose mouth ?
+Sent : Daddy 's desk ?
+Sent : whose tummy hurts ?
+Sent : the light ?
+Sent : how many eyes ?
+Sent : whose shoes did you hit ?
+Sent : which one is yellow ?
+Sent : which one looks like that one ?
+Sent : Adam 's pieces ?
+Sent : whose bike ?
+Sent : what toy do you kick ?
+Sent : doggie and the car ?
+Sent : what about the book and the door ?
+Sent : another book yes .
+Sent : a book isn 't a ball .
+Sent : Adam 's pencil ?
+Sent : what kind of bread ?
+Sent : Adam 's suitcase ?
+Sent : what kind of fish ?
+Sent : the song was daisy daisy .
+Sent : a word ?
+Sent : the children ?
+Sent : Adam which one is like this ?
+Sent : the cupcake ?
+Sent : his tail yes .
+Sent : what kind of paper ?
+Sent : what kind of water ?
+Sent : your tail ?
+Sent : your tail ?
+Sent : a motor scooter ?
+Sent : some people like to drive like that .
+Sent : what kind d you know ?
+Sent : and then what town will they go to ?
+Sent : oh the lumber .
+Sent : the mixer ?
+Sent : the germs from the hands ?
+Sent : which germs ?
+Sent : Adam 's hat ?
+Sent : you didn 't fall that time .
+Sent : your ball player ?
+Sent : which book ?
+Sent : what kind of soup ?
+Sent : Mommy 's tea ?
+Sent : how many feet does she have ?
+Sent : how many feet do you have ?
+Sent : what kind of game ?
+Sent : which one ?
+Sent : that one ?
+Sent : or a cane ?
+Sent : oh your telephone .
+Sent : what kind of fish ?
+Sent : what other kind of fish ?
+Sent : a tooth ?
+Sent : which bench ?
+Sent : a camel or a camera ?
+Sent : where one what ?
+Sent : what kind of franks ?
+Sent : you have_to do them one at a time .
+Sent : my size ?
+Sent : a horse ?
+Sent : not a cup ?
+Sent : a naughty cup ?
+Sent : which one d you want ?
+Sent : what color d you want ?
+Sent : what color is that ?
+Sent : which one d you want ?
+Sent : a grapefruit ?
+Sent : a snowman yes .
+Sent : which one is getting full ?
+Sent : a duck ?
+Sent : a knife ?
+Sent : a spoon ?
+Sent : a nut ?
+Sent : the bowl ?
+Sent : oh Bozo 's bottle .
+Sent : what kind of cake do you have Adam ?
+Sent : what statue told you ?
+Sent : your Daddy is going to get after you .
+Sent : what kind of monster ?
+Sent : a mompsy ?
+Sent : this one 's the leopard .
+Sent : if that 's yellow what color is this ?
+Sent : whose pencils are they ?
+Sent : does it fit that way ?
+Sent : how many ends does it have ?
+Sent : which one has the doghouse ?
+Sent : no name ?
+Sent : how many feet ?
+Sent : how many eyes ?
+Sent : a lamb ?
+Sent : lots_of boots ?
+Sent : oh another needle .
+Sent : oh Cromer 's pencil .
+Sent : a muffin man ?
+Sent : whose shadow ?
+Sent : which doggie ?
+Sent : a little while ?
+Sent : another Jesus ?
+Sent : a nice train ?
+Sent : a saddle and a bridle .
+Sent : whose house ?
+Sent : a bullet gun ?
+Sent : but the cow ?
+Sent : what other one ?
+Sent : your Daddy ?
+Sent : a red blown chest ?
+Sent : your Daddy will what ?
+Sent : a pair of shoes ?
+Sent : some blood on you ?
+Sent : a bow ?
+Sent : a dozen of eggs .
+Sent : a dozen of eggs song ?
+Sent : a real one ?
+Sent : what kind of animal ?
+Sent : or the Museum of Fine Arts ?
+Sent : or the Children 's Museum ?
+Sent : each one ?
+Sent : no the wheel .
+Sent : a spear ?
+Sent : a bird ?
+Sent : a book ?
+Sent : a long spear ?
+Sent : what kind of pen ?
+Sent : what kind of car ?
+Sent : what kind of tricks ?
+Sent : oh your rope tricks .
+Sent : cowboy 's grass ?
+Sent : what kind of flag ?
+Sent : oh a meadow pond .
+Sent : the unicorn didn 't want to come ?
+Sent : a box ?
+Sent : how many glasses ?
+Sent : how many pencils do you have ?
+Sent : how many pencils ?
+Sent : whose blanket ?
+Sent : oh a trombone .
+Sent : a fish ?
+Sent : what kind of fish ?
+Sent : oh his spurs .
+Sent : that one ?
+Sent : another fish ?
+Sent : a star yes .
+Sent : the coffee pot ?
+Sent : oh the dog .
+Sent : what color is that ?
+Sent : which one is blue ?
+Sent : Catherine 's eye ?
+Sent : the chair ?
+Sent : poor Ursula 's head ?
+Sent : do you know what street it 's on ?
+Sent : well what street do you live on ?
+Sent : a real one ?
+Sent : a tree barn ?
+Sent : a sunny day ?
+Sent : a white balloon ?
+Sent : which one ?
+Sent : the cat ?
+Sent : the cat ?
+Sent : the airplane ?
+Sent : how do you know what time it is .
+Sent : the pants ?
+Sent : what kinds of eggs are those ?
+Sent : how many trucks ?
+Sent : what kind of truck is broken ?
+Sent : this truck ?
+Sent : that one ?
+Sent : what kind of bag ?
+Sent : what kind of seals ?
+Sent : where baby cow ?
+Sent : oh that one .
+Sent : what a pretty butterfly .
+Sent : what song are you singing ?
+Sent : a coal bin ?
+Sent : a Jack and Jill ?
+Sent : what kind of pinwheel ?
+Sent : Butch 's hat ?
+Sent : Rusty 's hat ?
+Sent : what kind of hat does Rusty have ?
+Sent : a blue hat ?
+Sent : what kind of can ?
+Sent : what doctor are you going to ?
+Sent : a neck ?
+Sent : a rope ?
+Sent : and this one ?
+Sent : a violin ?
+Sent : a fish ?
+Sent : a house ?
+Sent : what kind of a house ?
+Sent : a camera ?
+Sent : what kind of light ?
+Sent : what blind man ?
+Sent : she 's losing her shoe or her slipper .
+Sent : a king ?
+Sent : which one ?
+Sent : Goldilocks discovers whose house ?
+Sent : a sword ?
+Sent : a fire ?
+Sent : some spaghetti ?
+Sent : what kind of ice ?
+Sent : some rice ?
+Sent : no the handle .
+Sent : some water juice ?
+Sent : a jingle pole ?
+Sent : what kind of fish will they catch ?
+Sent : a lion_fish ?
+Sent : what kind of skiing ?
+Sent : which one d you want ?
+Sent : a line ?
+Sent : some macaroni ?
+Sent : some of Paul 's food for you ?
+Sent : some polish for you ?
+Sent : which one did you choose Adam ?
+Sent : which one ?
+Sent : a picture of me ?
+Sent : a green arm ?
+Sent : a fish next_to the house ?
+Sent : what kind of fish ?
+Sent : oh an iron fish .
+Sent : yes another bus .
+Sent : what kind o game ?
+Sent : some macaroni ?
+Sent : your fork ?
+Sent : a cord ?
+Sent : a ride ?
+Sent : a funny rocket ?
+Sent : the drawing board ?
+Sent : the drawing board ?
+Sent : another step ?
+Sent : what kind of a dog ?
+Sent : some bread ?
+Sent : a bear ?
+Sent : yes a grasshopper .
+Sent : no a needle .
+Sent : how many arms does he have ?
+Sent : the heat ?
+Sent : your finger print ?
+Sent : it 's part of whose name ?
+Sent : a giant water bug ?
+Sent : your girl ?
+Sent : a finger print ?
+Sent : his feet ?
+Sent : a bottle ?
+Sent : what kind of animal ?
+Sent : oh a bull fighter .
+Sent : which hand ?
+Sent : which hand ?
+Sent : that hand ?
+Sent : well which one is it ?
+Sent : this one ?
+Sent : you dropped it on whose boots ?
+Sent : what kind of program ?
+Sent : no the other way .
+Sent : oh Timmy 's boots .
+Sent : Cromer 's piece ?
+Sent : all the way ?
+Sent : a trash truck ?
+Sent : what kind of cereal ?
+Sent : what kind of vitamin ?
+Sent : what kind of watch ?
+Sent : oh another one .
+Sent : oh a barn .
+Sent : what kind of yard did he have ?
+Sent : that mirror ?
+Sent : what kind of pies do I bake ?
+Sent : what story do you want to night ?
+Sent : which one Adam ?
+Sent : what kind of statue ?
+Sent : what kind of fish did you catch ?
+Sent : oh a sword fish .
+Sent : the mailman ?
+Sent : an advertisement ?
+Sent : what bag dear ?
+Sent : a small tricycle ?
+Sent : a meeting ?
+Sent : the sheriff ?
+Sent : what puzzle would you like to do ?
+Sent : I don 't know what puzzle that is .
+Sent : a car ?
+Sent : the magnet ?
+Sent : alright my friend .
+Sent : what kind of egg does that ?
+Sent : an arm ?
+Sent : a bear ?
+Sent : a pal ?
+Sent : a moustache mhm .
+Sent : Rusty 's hat ?
+Sent : what a nice house .
+Sent : Cromer 's face ?
+Sent : how man eyes ?
+Sent : how many ears ?
+Sent : how many mouths ?
+Sent : oh Daddy 's harpsichord .
+Sent : what part broke ?
+Sent : a Rambler ?
+Sent : a motor ?
+Sent : I don 't know which one .
+Sent : which letter d you want to do ?
+Sent : this morning ?
+Sent : how many eyes ?
+Sent : a broom ?
+Sent : a wolf ?
+Sent : a whale ?
+Sent : oh a mail bag .
+Sent : a train ?
+Sent : a log truck ?
+Sent : oh those poor eggs .
+Sent : a dozen eggs ?
+Sent : what kind of ham ?
+Sent : what kind of things ?
+Sent : your house ?
+Sent : your Jiminy_Cricket ?
+Sent : your blanket ?
+Sent : what kind of cake ?
+Sent : Perro 's spaghetti ?
+Sent : this afternoon yes .
+Sent : what kind of men ?
+Sent : what kind of game d you have Adam ?
+Sent : why is he so happy ?
+Sent : a word ?
+Sent : what kind of helmet ?
+Sent : what kind of holes ?
+Sent : your holes in the kitchen ?
+Sent : oh the other one .
+Sent : what kind of cake ?
+Sent : what kind of game ?
+Sent : the light ?
+Sent : which wheel ?
+Sent : the zoo ?
+Sent : which one ?
+Sent : this one ?
+Sent : or the other one ?
+Sent : this one ?
+Sent : his mouth ?
+Sent : his neck ?
+Sent : a heater ?
+Sent : what kind of heater ?
+Sent : a race ?
+Sent : what kind of race ?
+Sent : a camera ?
+Sent : these pieces ?
+Sent : another Ursula ?
+Sent : what kind of gift ?
+Sent : so his feet won 't get cold .
+Sent : what color is that ?
+Sent : a house ?
+Sent : a chimney ?
+Sent : this one ?
+Sent : what kind of ice ?
+Sent : a pipe ?
+Sent : a cigarette ?
+Sent : yes a boot .
+Sent : a pumpkin bird ?
+Sent : what kind of plum ?
+Sent : yes a dump truck .
+Sent : a train ?
+Sent : a train ?
+Sent : what place d you think that is Adam ?
+Sent : what place d you think that is ?
+Sent : a bird carriage ?
+Sent : which part don 't you like ?
+Sent : what kind of caboose ?
+Sent : it thought your arm was a tree .
+Sent : what kind of meat ?
+Sent : what kind of uniform ?
+Sent : a net ?
+Sent : what kind of fish did you catch ?
+Sent : some meat ?
+Sent : some soup and some juice .
+Sent : some macaroni ?
+Sent : which finger ?
+Sent : no the other part .
+Sent : my pants is are going to lose .
+Sent : a space boat ?
+Sent : your busy little horse ?
+Sent : what kind of syrup ?
+Sent : I don 't have no many babies .
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : a fire engine ?
+Sent : Jack and the Beanstalk .
+Sent : an egg ?
+Sent : the fire father ?
+Sent : a little bit too big .
+Sent : the shape of the scissors ?
+Sent : the men ?
+Sent : after Diandra 's father stops working ?
+Sent : what number shall I write ?
+Sent : yes a baby carriage .
+Sent : some pie ?
+Sent : some sugar ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : do you know what kind this is ?
+Sent : know what kind that is ?
+Sent : Daddy 's racket ?
+Sent : yes Daddy 's racket .
+Sent : Robie 's nail ?
+Sent : what color is in the rug ?
+Sent : until he met how many men ?
+Sent : what kind of car do you have ?
+Sent : Adam 's doggie ?
+Sent : the baby doggie is a puppy .
+Sent : how many tummies do you have ?
+Sent : which one is Mr Walter ?
+Sent : Adam 's pencil ?
+Sent : in whose mouth does it go ?
+Sent : bite whose mouth ?
+Sent : Daddy 's desk ?
+Sent : whose tummy hurts ?
+Sent : the light ?
+Sent : how many eyes ?
+Sent : you want one what ?
+Sent : you want one what ?
+Sent : you want one what ?
+Sent : are you going to swallow it ?
+Sent : what 're you digging for ?
+Sent : you have_to pull it all the way down .
+Sent : I think you have_to look toward the light .
+Sent : oh that 's nice .
+Sent : where did you lose him ?
+Sent : what are you giving them for dinner ?
+Sent : can you use this ?
+Sent : for paper ?
+Sent : what 're you doing ?
+Sent : the fire father ?
+Sent : yes cow girl .
+Sent : I think that might be nice .
+Sent : what 're you working on ?
+Sent : the shape of the scissors ?
+Sent : is that a turtle ?
+Sent : it will fit .
+Sent : see the stars ?
+Sent : Diandra where 's the Scotch tape ?
+Sent : you want what ?
+Sent : Adam don 't throw those .
+Sent : did you pinch your finger Adam ?
+Sent : what do you do with the button ?
+Sent : write number ?
+Sent : what number shall I write ?
+Sent : do you want a pencil ?
+Sent : you 're welcome Adam .
+Sent : what are you writing ?
+Sent : don 't put them in anyone 's face .
+Sent : no what 's that in your hand ?
+Sent : what is that ?
+Sent : you do it .
+Sent : what are the colors ?
+Sent : red yes .
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : hold it now .
+Sent : do you know what kind this is ?
+Sent : yes there 's a man .
+Sent : what kind is that ?
+Sent : put the baby where ?
+Sent : that 's not Pinnochio .
+Sent : those are chipmunks and Mickey_Mouse .
+Sent : put your pajamas on ?
+Sent : Daddy 's racket ?
+Sent : Adam whose racket is that ?
+Sent : you can 't play with Daddy 's .
+Sent : where did your racket go ?
+Sent : yes Daddy 's racket .
+Sent : whose racket is that ?
+Sent : whose brief case is this ?
+Sent : Texaco star ?
+Sent : what about Cliffy ?
+Sent : two boots ?
+Sent : record going to work ?
+Sent : no that 's no paper .
+Sent : are you lying on the dog .
+Sent : what are you talking about ?
+Sent : what is that ?
+Sent : Adam 's pencil ?
+Sent : is that a pencil ?
+Sent : you want some paper ?
+Sent : where did you get that ?
+Sent : you get it .
+Sent : did you throw the ball ?
+Sent : where did what go ?
+Sent : you 're a busy bulldozer ?
+Sent : oh it 's a truck ?
+Sent : red and yellow .
+Sent : which one is yellow ?
+Sent : Ursula 's right there ?
+Sent : can you put it together again ?
+Sent : you put it together .
+Sent : is it like this one ?
+Sent : which one looks like that one ?
+Sent : what kind of horn is that ?
+Sent : where did Adam go ?
+Sent : what is that ?
+Sent : well is the sun shining ?
+Sent : the sun 's not shining ?
+Sent : is it cloudy ?
+Sent : Adam 's pieces ?
+Sent : take a piece of candy .
+Sent : write with pencil ?
+Sent : you going to put your toys in there ?
+Sent : play toy ?
+Sent : what about your play toy ?
+Sent : doggie and the car ?
+Sent : where did you go yesterday ?
+Sent : play tail ?
+Sent : you put your gloves on ?
+Sent : what are you doing ?
+Sent : a book isn 't a ball .
+Sent : don 't throw the book .
+Sent : is milk on there ?
+Sent : what kind of bread ?
+Sent : fresh milk ?
+Sent : more candy .
+Sent : is that Adam ?
+Sent : it 's not candy .
+Sent : what is that ?
+Sent : Adam 's suitcase ?
+Sent : where are you going ?
+Sent : what will happen if you drop it ?
+Sent : is that a letter for somebody ?
+Sent : he doesn 't want pie .
+Sent : can you get it off ?
+Sent : what 're you going to play .
+Sent : the song was daisy daisy .
+Sent : did you break one of the wheels ?
+Sent : why did you do that ?
+Sent : because Shadow_Gay did what ?
+Sent : did he eat it ?
+Sent : you 're patting him ?
+Sent : what kind of paper ?
+Sent : what 's your paper ?
+Sent : thank_you for my drawing ?
+Sent : you 're drawing a shadow ?
+Sent : what 's carby ?
+Sent : it wasn 't dancing .
+Sent : like this .
+Sent : your tail hurts .
+Sent : your tail ?
+Sent : where 's your tail ?
+Sent : in your ear ?
+Sent : where does it hurt ?
+Sent : your tail ?
+Sent : that 's no tail .
+Sent : careful Adam !
+Sent : no Adam careful .
+Sent : I think it was a car .
+Sent : some people like to drive like that .
+Sent : I guess so .
+Sent : is that the caboose ?
+Sent : are you a carpenter ?
+Sent : why d you do that sometimes ?
+Sent : the mixer ?
+Sent : I don 't know .
+Sent : which germs ?
+Sent : foot ball .
+Sent : I saw a tank truck .
+Sent : was he dirty ?
+Sent : what is that ?
+Sent : what is that ?
+Sent : boots yes .
+Sent : because they 're Daddy 's .
+Sent : what is in there ?
+Sent : get Adam 's bike !
+Sent : which book ?
+Sent : see there are no pictures .
+Sent : what is that ?
+Sent : did you read that ?
+Sent : alright it 's yours .
+Sent : did you see the sun ?
+Sent : here 's your shoe .
+Sent : no John Buzzhart .
+Sent : what kind of game ?
+Sent : I think that 's a stick Adam .
+Sent : what does he have ?
+Sent : is it a sword ?
+Sent : what other kind of fish ?
+Sent : just pretend .
+Sent : where did what go ?
+Sent : or who is dum_dum ?
+Sent : what is dum_dum ?
+Sent : one two three four five .
+Sent : one two three four five .
+Sent : just one .
+Sent : in a magazine ?
+Sent : yes it is .
+Sent : because some things are surprises .
+Sent : not a cup ?
+Sent : a naughty cup ?
+Sent : oh Adam what are you saying ?
+Sent : would you like a piece ?
+Sent : you can have a pen .
+Sent : which one d you want ?
+Sent : d you want to write on this ?
+Sent : what shall I use ?
+Sent : what color d you want ?
+Sent : what color is this ?
+Sent : no it 's not blue .
+Sent : here it is ?
+Sent : try it .
+Sent : don 't put a hole in Bobo .
+Sent : and how will you fix it ?
+Sent : oh my_goodness .
+Sent : how did he get up there ?
+Sent : what is that you 're using ?
+Sent : a knife ?
+Sent : what are you making with the knife ?
+Sent : a spoon ?
+Sent : where did you put it ?
+Sent : and what will you do with the paper ?
+Sent : I see a what ?
+Sent : a nut ?
+Sent : but they 're backwards .
+Sent : turn them around .
+Sent : just a minute .
+Sent : you said this was mine .
+Sent : don 't put that so far .
+Sent : you 'll be on the cord .
+Sent : oh Bozo 's bottle .
+Sent : it 's not ready ?
+Sent : buddy cakes ?
+Sent : what kind of cakes are those ?
+Sent : here are two .
+Sent : how can he play without a bat ?
+Sent : no no !
+Sent : what are you ?
+Sent : what kind of monster ?
+Sent : a sea green monster .
+Sent : what kind of monster are you ?
+Sent : a mompsy ?
+Sent : what 's a mompsy ?
+Sent : who did use them all ?
+Sent : a boy what ?
+Sent : that 's part of my body ?
+Sent : oh what part is that ?
+Sent : what are you doing ?
+Sent : I don 't think that 's yellow .
+Sent : if that 's yellow what color is this ?
+Sent : don 't do that .
+Sent : you 'll bend it .
+Sent : because it will disrupt the machine .
+Sent : whose pencils are they ?
+Sent : one door !
+Sent : will you read it to me ?
+Sent : can you find the seal ?
+Sent : does that one fit ?
+Sent : does it fit ?
+Sent : does it fit there ?
+Sent : can you find it ?
+Sent : are those too many Adam ?
+Sent : what is that ?
+Sent : I tickle you .
+Sent : what 's that ?
+Sent : do you know his name ?
+Sent : no name ?
+Sent : is that pretty ?
+Sent : what is that ?
+Sent : what is that ?
+Sent : that 's the elephant 's trunk .
+Sent : where are his feet ?
+Sent : how many feet ?
+Sent : how many eyes ?
+Sent : ten eyes ?
+Sent : yes you did miss .
+Sent : yes you missed .
+Sent : yeah we saw the parrot .
+Sent : you didn 't see an elephant .
+Sent : what else did you see .
+Sent : oh another needle .
+Sent : I don 't know what is it ?
+Sent : oh Cromer 's pencil .
+Sent : oh is that the sky ?
+Sent : I don 't know .
+Sent : what is it ?
+Sent : there 's Humpty_Dumpty ?
+Sent : where did you say he was ?
+Sent : a muffin man ?
+Sent : what are you doing ?
+Sent : pushing what away ?
+Sent : you 're pushing that shadow away ?
+Sent : whose shadow ?
+Sent : your shadow .
+Sent : bite your pants ?
+Sent : what are those ?
+Sent : Jesus stands up what ?
+Sent : oh horsie .
+Sent : another Jesus ?
+Sent : Jesus does what ?
+Sent : how old is Mommy ?
+Sent : oh you 're six and I 'm seven .
+Sent : what kind of gun is that ?
+Sent : a bullet gun ?
+Sent : what does a bullet gun do ?
+Sent : will you give me a slice ?
+Sent : thank_you very much .
+Sent : what is it ?
+Sent : what is it ?
+Sent : what is a chess ?
+Sent : what is a chest ?
+Sent : pineapple for dessert ?
+Sent : and what else did you have ?
+Sent : what is that ?
+Sent : a bow ?
+Sent : rock you ?
+Sent : did you see any cows ?
+Sent : you did so .
+Sent : a dozen of eggs song ?
+Sent : where did you learn that ?
+Sent : did you learn another one today ?
+Sent : what was it ?
+Sent : that 's another joke ?
+Sent : what kind of animal ?
+Sent : an elephant in a train .
+Sent : what else did you see .
+Sent : a snake .
+Sent : a real bird .
+Sent : does it turn now ?
+Sent : no the wheel .
+Sent : why did you take my racers ?
+Sent : this is green .
+Sent : green like the green light .
+Sent : what else can fly in the air ?
+Sent : a bird ?
+Sent : it doesn 't have any wings .
+Sent : you have_to do something to it first .
+Sent : yellow car ?
+Sent : what do you do with it ?
+Sent : did he go to the corral ?
+Sent : you 're doing tricks ?
+Sent : doing tricks ?
+Sent : what kind of tricks ?
+Sent : chair tricks ?
+Sent : oh you 're laughing ?
+Sent : chair tricks ?
+Sent : you caught it ?
+Sent : what did you catch ?
+Sent : meadow pond .
+Sent : button let you press ?
+Sent : do you like grapefruit ?
+Sent : don 't go down ?
+Sent : where do you want to go ?
+Sent : well you give him the pen .
+Sent : Adam dropped the pencil .
+Sent : careful Adam !
+Sent : oh a trombone .
+Sent : can you play the trombone ?
+Sent : can you draw his boots ?
+Sent : oh his spurs .
+Sent : what is it ?
+Sent : it 's Goldilocks .
+Sent : I don 't know .
+Sent : it 's going around ?
+Sent : turkey pine go ?
+Sent : what 's that ?
+Sent : a star yes .
+Sent : all stars don 't belong to Texaco .
+Sent : what 's this ?
+Sent : what 's that ?
+Sent : which one is blue ?
+Sent : don 't sit on Mr Cromer 's briefcase .
+Sent : get up .
+Sent : can you say climb the big ladder you .
+Sent : what 's Catherine doing ?
+Sent : Catherine 's eye ?
+Sent : Peter Piper picked .
+Sent : what are you doing ?
+Sent : it sounded like freight .
+Sent : the chair ?
+Sent : you need a saw .
+Sent : you need carpenter 's tools .
+Sent : what happened to the hammer ?
+Sent : well what street do you live on ?
+Sent : what did your grandmother get on ?
+Sent : what did she ride in ?
+Sent : in an airplane ?
+Sent : a pig !
+Sent : well what does the pig say ?
+Sent : have you seen a pig ?
+Sent : a real one ?
+Sent : don 't hit anybody with that Adam .
+Sent : that 's right ?
+Sent : for a ball .
+Sent : what 's this ?
+Sent : what else did the little boy see ?
+Sent : a tree .
+Sent : a tree barn ?
+Sent : is this a tree barn ?
+Sent : what 's this ?
+Sent : a sunny day ?
+Sent : and this ?
+Sent : under the hay ?
+Sent : oh yes .
+Sent : you did .
+Sent : you want to go up ?
+Sent : kitty laughing at you ?
+Sent : a white balloon ?
+Sent : the turtle makes a mud pie .
+Sent : and what did he see ?
+Sent : don 't like what ?
+Sent : which one ?
+Sent : you like this page ?
+Sent : the turtle making mud pies ?
+Sent : the cat ?
+Sent : the cat ?
+Sent : who put a mud pie ?
+Sent : do you like that page ?
+Sent : with the bunny rabbit .
+Sent : the airplane ?
+Sent : poor Urs !
+Sent : Adam what did you see at the airport ?
+Sent : where did Grandmother go ?
+Sent : it must be almost time .
+Sent : that 's your car ?
+Sent : you jumped ?
+Sent : wheels in the air ?
+Sent : now what do you have_to do ?
+Sent : trash truck broken ?
+Sent : what kind of truck is broken ?
+Sent : this truck ?
+Sent : oh that 's better ?
+Sent : what kind of bag ?
+Sent : is that part of the song ?
+Sent : I don 't know .
+Sent : after supper ?
+Sent : that 's right ?
+Sent : what about a parade ?
+Sent : what did you say Adam ?
+Sent : branding a cow .
+Sent : yes it is heavy .
+Sent : then what will you do ?
+Sent : laughing about Cromer .
+Sent : you 're singing a song ?
+Sent : what song are you singing ?
+Sent : now what are you drawing ?
+Sent : does he have boots ?
+Sent : what did you draw there ?
+Sent : a coal bin ?
+Sent : a Jack and Jill ?
+Sent : is this Jack and Jill ?
+Sent : is that a railroad train ?
+Sent : where 's the train ?
+Sent : no Adam !
+Sent : you draw up here .
+Sent : what is that ?
+Sent : what kind of pinwheel ?
+Sent : why do you have so many pinwheels ?
+Sent : you have fourteen ?
+Sent : well careful .
+Sent : oh Bozo 's Butch .
+Sent : that 's Butch 's bed ?
+Sent : that 's what ?
+Sent : Butch 's hat ?
+Sent : Rusty 's hat ?
+Sent : what kind of hat does Rusty have ?
+Sent : a blue hat ?
+Sent : is that true ?
+Sent : what am I doing ?
+Sent : okay yes .
+Sent : what else did you see .
+Sent : where 's the neck ?
+Sent : and what else ?
+Sent : what is that ?
+Sent : remember firetruck .
+Sent : what is that ?
+Sent : a rope ?
+Sent : let you make a rope ?
+Sent : and this one ?
+Sent : the sunshine is laughing .
+Sent : what 's this one ?
+Sent : and this ?
+Sent : a violin ?
+Sent : and this ?
+Sent : you do have a camera .
+Sent : you don 't have a what ?
+Sent : what kind of light ?
+Sent : why 're you doing that ?
+Sent : what was that that ran away from you ?
+Sent : they did ?
+Sent : he doesn 't move .
+Sent : two people doing what ?
+Sent : you changed your mind .
+Sent : here 's another story .
+Sent : Goldilocks discovers whose house ?
+Sent : the bear 's house .
+Sent : and how many bears ?
+Sent : three bears .
+Sent : there you are .
+Sent : can you pick up that squeezed balloon ?
+Sent : some rice ?
+Sent : I have some tea thank_you .
+Sent : are you cutting it for me ?
+Sent : why 're you watching me ?
+Sent : at Barney 's house .
+Sent : what was it like ?
+Sent : put the handle down .
+Sent : no the handle .
+Sent : the handle of the knife .
+Sent : turn it around .
+Sent : what 'd you put in this ?
+Sent : what would you put in there ?
+Sent : some water juice ?
+Sent : what would you put in here ?
+Sent : what would you put in here ?
+Sent : they 're no different ?
+Sent : how are they different ?
+Sent : thirty times what ?
+Sent : a jingle pole ?
+Sent : what is that ?
+Sent : from the park ?
+Sent : from singing a song ?
+Sent : they don 't talk like we talk .
+Sent : I think they talk to each_other .
+Sent : what kind of fish will they catch ?
+Sent : look Adam .
+Sent : what color is this ?
+Sent : what color is this ?
+Sent : which one d you want ?
+Sent : alright then look .
+Sent : a line ?
+Sent : some soap .
+Sent : what do I want ?
+Sent : I 'd like a can opener .
+Sent : d you like bacon ?
+Sent : I need some peach jam .
+Sent : tomato soup .
+Sent : some macaroni ?
+Sent : and two gallons of milk .
+Sent : and toothpaste .
+Sent : yes alright .
+Sent : what is it ?
+Sent : it looks like a house .
+Sent : Bob fish ?
+Sent : oh an iron fish .
+Sent : oh they 're talking ?
+Sent : they 're talking to each_other ?
+Sent : what 're they saying ?
+Sent : yes Harvard_Square bus .
+Sent : because I can read .
+Sent : what kind o game ?
+Sent : can I play ?
+Sent : I think you have_to try another one Adam .
+Sent : they 're matches ?
+Sent : what would you like for your lunch ?
+Sent : some macaroni ?
+Sent : play with this ?
+Sent : here 's some macaroni .
+Sent : here 's some milk .
+Sent : there it is .
+Sent : like a barrel of fun ?
+Sent : to blast off with ?
+Sent : you do it .
+Sent : I 'll hold it while you screw .
+Sent : a funny rocket ?
+Sent : look Adam what I have .
+Sent : oh I see .
+Sent : what kind of a dog ?
+Sent : those are nickels .
+Sent : what is this .
+Sent : blow again .
+Sent : you only did one side .
+Sent : there 's one over there .
+Sent : where 's the bottom ?
+Sent : your finger print ?
+Sent : I see it .
+Sent : you know what ?
+Sent : what is that ?
+Sent : what 's that ?
+Sent : hold it toward the light .
+Sent : it popped .
+Sent : oh you 're juggling .
+Sent : what color is this ?
+Sent : that hand ?
+Sent : the other hand .
+Sent : you dropped it on whose boots ?
+Sent : Ursula 's boot .
+Sent : why did you turn the light on ?
+Sent : why did you cut the light on ?
+Sent : Ursula may need that at her work .
+Sent : thank_you Adam .
+Sent : I why are you putting it in there ?
+Sent : is he eating his breakfast now ?
+Sent : what does he have for breakfast ?
+Sent : oh he has cereal .
+Sent : what kind of cereal ?
+Sent : he has hot cereal .
+Sent : what about your puzzle ?
+Sent : will that fit in there ?
+Sent : Adam 's vitamins .
+Sent : vitamin Cromer 's .
+Sent : I need a vitamin too .
+Sent : it 's a mirror ?
+Sent : what do you see in the mirror ?
+Sent : it 's a watch ?
+Sent : what kind of watch ?
+Sent : that 's enough Adam .
+Sent : d you want to stand up there ?
+Sent : why was Peppy lonely ?
+Sent : a big moving truck .
+Sent : don 't play there either .
+Sent : you said it first .
+Sent : what about the treasure house ?
+Sent : that mirror ?
+Sent : so you can see .
+Sent : hop to the shower ?
+Sent : what are you saying ?
+Sent : what is that ?
+Sent : who bakes pies ?
+Sent : why would you do that ?
+Sent : I think one did break in Cambridge .
+Sent : what 's a genie ?
+Sent : what kind of statue ?
+Sent : this been wrapped on here .
+Sent : and the company man come ?
+Sent : the mailman ?
+Sent : you know how to put that in .
+Sent : it 's what ?
+Sent : it 's stopped ?
+Sent : the sheriff ?
+Sent : no no !
+Sent : don 't do that Adam .
+Sent : that 's no shovel .
+Sent : they 're wrong ?
+Sent : why are they wrong ?
+Sent : would you like to do a puzzle ?
+Sent : what puzzle would you like to do ?
+Sent : that 's it .
+Sent : there 's a door .
+Sent : one named Joe ?
+Sent : I can 't turn it off .
+Sent : it doesn 't turn off .
+Sent : because the springs are all wound up .
+Sent : alright my friend .
+Sent : what goes up ?
+Sent : look Adam .
+Sent : you 're not an eye ?
+Sent : an arm ?
+Sent : it 's very hard .
+Sent : I can 't do it .
+Sent : I have one .
+Sent : who did that ?
+Sent : a bucket of paint .
+Sent : for moose ?
+Sent : what are you doing ?
+Sent : what are you doing ?
+Sent : you 've got what on ?
+Sent : Cromer 's face ?
+Sent : how man eyes ?
+Sent : four eyes .
+Sent : how many ears ?
+Sent : four ears .
+Sent : how many mouths ?
+Sent : why does Mommy get spanked ?
+Sent : why are you spanking Adam ?
+Sent : what is that ?
+Sent : morning supper ?
+Sent : what did you eat for morning supper ?
+Sent : the what went off ?
+Sent : a Rambler ?
+Sent : is that the kind you have ?
+Sent : may be it 's in the back .
+Sent : that 's a number two .
+Sent : all of them .
+Sent : and one half ?
+Sent : with a big wiggle ?
+Sent : that 's nice .
+Sent : oh a mail bag .
+Sent : I 'm finished with this one .
+Sent : she has two raisins .
+Sent : come and catch him .
+Sent : your blanket ?
+Sent : may I see how he walks Adam ?
+Sent : he fell over .
+Sent : stop kicking me .
+Sent : yes he 's keeping that one .
+Sent : it was very good .
+Sent : I did .
+Sent : that one what ?
+Sent : they are going to sleep ?
+Sent : what 's in your mouth ?
+Sent : what is it ?
+Sent : what is that ?
+Sent : you gave him one before .
+Sent : you were ?
+Sent : why were you crying ?
+Sent : what kind of game ?
+Sent : I don 't think I have guns .
+Sent : what shall we play ?
+Sent : new game .
+Sent : where did you go yesterday ?
+Sent : did you see piggies ?
+Sent : did you see bears ?
+Sent : the zoo ?
+Sent : something frightened you ?
+Sent : you think a tiger ?
+Sent : what else did you see at the zoo ?
+Sent : what happens when you press the button ?
+Sent : the light comes on ?
+Sent : wait let her show you .
+Sent : his mouth ?
+Sent : that 's where his tongue should be .
+Sent : should be .
+Sent : safety rules ?
+Sent : a race ?
+Sent : what kind of race ?
+Sent : what does it look now ?
+Sent : there are two of those too .
+Sent : what 's that ?
+Sent : are they turning ?
+Sent : just pretend .
+Sent : you will put what in it ?
+Sent : this is ice ?
+Sent : what kind of ice ?
+Sent : sugar ice ?
+Sent : that 's too sweet .
+Sent : what is that ?
+Sent : a pipe ?
+Sent : a cigarette ?
+Sent : you 're going where ?
+Sent : hang the line up ?
+Sent : where shell I tie it ?
+Sent : what is it ?
+Sent : yes a boot .
+Sent : is that a pony ?
+Sent : where 's a seal ?
+Sent : a hatso a fatso .
+Sent : this is j .
+Sent : and what is this ?
+Sent : a pumpkin bird ?
+Sent : what kind of bird is that ?
+Sent : what is this .
+Sent : thank_you for the coffee .
+Sent : he 's going to do what ?
+Sent : fall on a spoon ?
+Sent : if he 's not careful .
+Sent : what is that ?
+Sent : x to nine .
+Sent : you mean this ladder ?
+Sent : I took it from him .
+Sent : the tail .
+Sent : the rudder .
+Sent : which part don 't you like ?
+Sent : I heard it .
+Sent : it thought your arm was a tree .
+Sent : you don 't like crayons ?
+Sent : you think that is meat ?
+Sent : what kind of meat ?
+Sent : you made two of that Adam ?
+Sent : because you took them out .
+Sent : what kind of fish did you catch ?
+Sent : yes I like fish .
+Sent : what kind of fish is this ?
+Sent : I think I have enough fish now .
+Sent : I 'll cook them tonight .
+Sent : don 't put it in there Adam .
+Sent : you may forget it .
+Sent : some meat ?
+Sent : no thank_you !
+Sent : we 're going to have fish .
+Sent : what else shall we have for supper ?
+Sent : and macaroni ?
+Sent : anything else ?
+Sent : what would I like from the store ?
+Sent : my pants is are going to lose .
+Sent : what is it ?
+Sent : if you shoot him he won 't laugh .
+Sent : maybe one of my keys fits .
+Sent : if you 're careful .
+Sent : a house to a door ?
+Sent : you mean a door to the house ?
+Sent : somebody can walk in .
+Sent : is that a man ?
+Sent : why don 't you write something ?
+Sent : with the pen .
+Sent : what 's the bird doing ?
+Sent : does this write ?
+Sent : don 't knock me .
+Sent : who puts the door in ?
+Sent : a carpenter ?
+Sent : he can 't find it .
+Sent : you have_to put one back .
+Sent : now which one would you like ?
+Sent : you have_to push another one out .
+Sent : which color d you like ?
+Sent : now you can reach it .
+Sent : now he can find it .
+Sent : a sewing machine ?
+Sent : oh did you make something ?
+Sent : a Jesus knot ?
+Sent : what kind of knot is that ?
+Sent : thinking knot ?
+Sent : oh that 's right .
+Sent : some wood ?
+Sent : my turn .
+Sent : yes because somebody could get burned .
+Sent : oh cake I like that .
+Sent : birthday cake ?
+Sent : a picnic ?
+Sent : your busy little horse ?
+Sent : what kind of syrup ?
+Sent : I don 't have no many babies .
+Sent : but not boy babies ?
+Sent : which one would you like ?
+Sent : a fire engine ?
+Sent : Jack and the Beanstalk .
+Sent : an egg ?
+Sent : the fire father ?
+Sent : a little bit too big .
+Sent : the shape of the scissors ?
+Sent : the men ?
+Sent : after Diandra 's father stops working ?
+Sent : what number shall I write ?
+Sent : yes a baby carriage .
+Sent : some pie ?
+Sent : some sugar ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : what color is that ?
+Sent : do you know what kind this is ?
+Sent : know what kind that is ?
+Sent : Daddy 's racket ?
+Sent : yes Daddy 's racket .
+Sent : Robie 's nail ?
+Sent : what color is in the rug ?
+Sent : until he met how many men ?
+Sent : what kind of car do you have ?
+Sent : Adam 's doggie ?
+Sent : the baby doggie is a puppy .
+Sent : how many tummies do you have ?
+Sent : which one is Mr Walter ?
