@@ -5,4 +5,4 @@ To reproduce:
     . ./run_adam.sh
     . ./run_hagar.sh
 
-The results, for different stages of training, will be in `adam_results/test_parses*`.
+The results, for different stages of training, will be in `{dataset-name}_results/test_parses*`.
